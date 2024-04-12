@@ -57,7 +57,7 @@ module.exports = {
            { name: '🎵 Now Playing', value: 'Display the currently playing song information' },
           { name: '🔊 Volume', value: 'Adjust the music volume [ hearing at high volumes is risky ]' },
         ) 
-       .setImage('&')
+       .setImage('https://giphy.com/embed/9rO5Aksmn0dHQKXJAu')
       const button1 = new ButtonBuilder()
         .setLabel('Happy')
         .setURL('https://youtu.be/cSQTZoZPJzs?si=XTTIn76oK8LACSh1')
